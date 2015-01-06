@@ -1,3 +1,6 @@
+% This script is executed by screentshot function
+% need matlab to be configured to launch the program
+
 Vec_Unp1;
 Un1(60,60)=zeros;
 Un1(:)=Unp1;
